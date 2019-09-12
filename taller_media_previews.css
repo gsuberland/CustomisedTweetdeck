@@ -1,0 +1,13 @@
+/*
+gsuberland's Customised TweetDeck
+https://github.com/gsuberland/CustomisedTweetdeck
+
+Copyright (c) 2019 Graham Sutherland.
+Code released under MIT license.
+
+Taller Media Previews: Expands the vertical size of media previews in the feed.
+*/
+
+.media-preview-container > a {
+    height: 375px !important;
+}
