@@ -1,0 +1,21 @@
+/*
+gsuberland's Customised TweetDeck
+https://github.com/gsuberland/CustomisedTweetdeck
+
+Copyright (c) 2019 Graham Sutherland.
+Code released under MIT license.
+
+Wider Columns: Widens columns for better viewing on a 4k monitor when wide columns are selected in the options.
+*/
+
+/* make the columns default to 600px wide */
+
+.is-wide-columns .column {
+    width: 600px !important;
+}
+
+/* make the first column a bit wider */
+
+.is-wide-columns .column:first-child {
+    width: 800px !important;
+}
