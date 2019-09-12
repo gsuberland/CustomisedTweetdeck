@@ -1,0 +1,18 @@
+/*
+gsuberland's Customised TweetDeck
+https://github.com/gsuberland/CustomisedTweetdeck
+
+Copyright (c) 2019 Graham Sutherland.
+Code released under MIT license.
+
+Center Columns: Centers the columns on screen, maintaining normal overflow and scroll behavious.
+*/
+
+.app-columns-container {
+    text-align: center;
+}
+
+.app-columns {
+    display: inline-block;
+    text-align: justify;
+}
