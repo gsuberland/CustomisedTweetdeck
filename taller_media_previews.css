@@ -16,6 +16,6 @@ Taller Media Previews: Expands the vertical size of media previews in the feed.
     height: 375px !important;
 }
 
-.media-grid-container {
+.media-grid-container:not(.tweet-avatar) {
     height: 375px !important;
 }
