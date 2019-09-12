@@ -1,0 +1,14 @@
+/*
+gsuberland's Customised TweetDeck
+https://github.com/gsuberland/CustomisedTweetdeck
+
+Copyright (c) 2019 Graham Sutherland.
+Code released under MIT license.
+
+Bigger Footer: Slightly enlarges the tweet footer that contains like/reply/RT buttons and counts.
+*/
+
+.tweet-footer {
+    transform-origin: left top;
+    transform: scale(1.15);
+}
