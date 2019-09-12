@@ -12,3 +12,9 @@ This repo contains a bunch of CSS and JS hacks I use with Tweetdeck:
 Styles are applied with Stylus, scripts are applied with Greasemonkey. Both should be easily hackable.
 
 Tested on Firefox only. Styles should work fine on any browser, but scripts may not work on Chrome or other browsers - YMMV.
+
+## Previews
+
+![Before](preview_before.png?raw=true "Before")
+
+![After](preview_after.png?raw=true "After")
