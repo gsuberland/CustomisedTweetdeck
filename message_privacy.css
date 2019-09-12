@@ -9,7 +9,7 @@ Message Privacy: Blurs the text on private messages until the mouse hovers over 
 */
 
 .column article[data-tweet-id=""] .tweet-text {
-    filter: blur(8px) opacity(75%);
+    filter: saturate(0%) blur(8px) opacity(75%);
 }
 
 .column:hover article[data-tweet-id=""] .tweet-text {
