@@ -15,6 +15,10 @@ Tested on Firefox only. Styles should work fine on any browser, but scripts may 
 
 ## Previews
 
+**Before:**
+
 ![Before](preview_before.png?raw=true "Before")
+
+**After:**
 
 ![After](preview_after.png?raw=true "After")
