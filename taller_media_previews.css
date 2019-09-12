@@ -11,3 +11,11 @@ Taller Media Previews: Expands the vertical size of media previews in the feed.
 .media-preview-container > a {
     height: 375px !important;
 }
+
+.media-preview-container > .media-item {
+    height: 375px !important;
+}
+
+.media-grid-container {
+    height: 375px !important;
+}
