@@ -21,4 +21,4 @@ Tested on Firefox only. Styles should work fine on any browser, but scripts may 
 
 **After:**
 
-![After](preview_after.png?raw=true "After")
+![After](preview_after.jpg?raw=true "After")
