@@ -1,0 +1,17 @@
+/*
+gsuberland's Customised TweetDeck
+https://github.com/gsuberland/CustomisedTweetdeck
+
+Copyright (c) 2019 Graham Sutherland.
+Code released under MIT license.
+
+Message Privacy: Blurs the text on private messages until the mouse hovers over the column.
+*/
+
+.column article[data-tweet-id=""] .tweet-text {
+    filter: blur(8px) opacity(75%);
+}
+
+.column:hover article[data-tweet-id=""] .tweet-text {
+    filter: none;
+}
